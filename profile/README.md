@@ -1,4 +1,6 @@
 # Computer Vision and Signal Processing Lab
+공경보 교수님 [pnu-cvsp](https://www.pnu-cvsp.com/prof)  
+  
 정성훈 [github](https://github.com/currycurry915)  
   
 진인환 [github](https://github.com/InHwanJin)  
