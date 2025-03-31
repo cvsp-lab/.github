@@ -3,7 +3,7 @@
   
 &nbsp;Our lab focuses on various areas, including 1) generative AI-based vision, 2) multimodal integration of different domains such as speech, text, and images, and 3) robotic vision.  
   
-## professor
+## Professor
 공경보 교수님 [pnu-cvsp](https://www.pnu-cvsp.com/prof)
 
 ## Ph.D Courses
