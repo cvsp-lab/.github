@@ -1,5 +1,6 @@
 # Computer Vision and Signal Processing Lab
 &nbsp;Let’s imagine a child’s biological eyes as a pair of cameras. Assuming these eyes take a picture every 200ms, which is the average time for an eye movement, the child would see billions of images by the age of three. Computer vision is a field that teaches computers how to see by leveraging this vast amount of visual data. Specifically, it aims to use artificial intelligence to extract meaningful information from digital images, videos, and other input signals, and then use this information to predict or generate new data.  
+  
 &nbsp;Our lab focuses on various areas, including 1) generative AI-based vision, 2) multimodal integration of different domains such as speech, text, and images, and 3) robotic vision.  
   
 ## professor
