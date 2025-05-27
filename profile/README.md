@@ -24,7 +24,7 @@
 이우진 [github](https://github.com/woojin1833)
 
 ## Research Interns
-김태훈 [github](https://github.com/TriFullKim)  
+김태훈 [github](https://github.com/TriFullKim) [website](https://www.trifull.kim)
   
 김소현 [github](https://github.com/sohyeon53)  
   
