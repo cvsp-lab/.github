@@ -34,10 +34,10 @@
 
 조범권 [github](https://github.com/chobk5194)
 
-김우형 [github]
+김우형 [github](https://github.com/dngud1003)
 
 ## Research Interns
 
-윤지원 [github]
+윤지원 [github](https://github.com/yjw102034-spec)
   
 윤상연 [github](https://github.com/Glesep)
