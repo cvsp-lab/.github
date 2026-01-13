@@ -14,6 +14,9 @@
   
 정다운 [github](https://github.com/Da-OOn)  
 
+김태훈 [github](https://github.com/TriFullKim) [website](https://www.trifull.kim)
+
+
 ## Integrated BS-MS Courses
 백창우 [github](https://github.com/higokri)  
   
@@ -23,12 +26,18 @@
   
 이우진 [github](https://github.com/woojin1833)
 
-## Research Interns
-김태훈 [github](https://github.com/TriFullKim) [website](https://www.trifull.kim)
-  
 김소현 [github](https://github.com/sohyeon53)  
   
 김소형 [github](https://github.com/SohyeongKim-hub)  
-  
-안재현 [github](https://github.com/jaehyeon201924149)
 
+최지훈 [github](https://github.com/ORDINARYCHOI)
+
+조범권 [github](https://github.com/chobk5194)
+
+김우형 [github]
+
+## Research Interns
+
+윤지원 [github]
+  
+윤상연 [github](https://github.com/Glesep)
