@@ -1,7 +1,7 @@
 # Computer Vision and Signal Processing Lab
-&nbsp;PNU CVSP Lab develops scalable and reliable spatial multimodal AI for understanding, generating, and interacting with the physical world.
+> PNU CVSP Lab develops scalable and reliable spatial multimodal AI for understanding, generating, and interacting with the physical world.
   
-&nbsp;Our research focuses on:
+Our research focuses on:
 
 1. 3D/4D world modeling and dynamic Gaussian splatting
 
