@@ -30,8 +30,6 @@ Our research focuses on:
 문형주 [github](https://github.com/MHJ0208)  
   
 우민수 [github](https://github.com/MinSooWoo123)  
-  
-이우진 [github](https://github.com/woojin1833)
 
 김소현 [github](https://github.com/sohyeon53)  
   
@@ -43,8 +41,8 @@ Our research focuses on:
 
 김우형 [github](https://github.com/dngud1003)
 
+김준수 [github](https://github.com/wave2503)
+
 ## Research Interns
 
-윤지원 [github](https://github.com/yjw102034-spec)
-  
 윤상연 [github](https://github.com/Glesep)
