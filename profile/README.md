@@ -46,3 +46,5 @@ Our research focuses on:
 ## Research Interns
 
 윤상연 [github](https://github.com/Glesep)
+
+최종원 [github](https://github.com/choijongwon1001-cell)
